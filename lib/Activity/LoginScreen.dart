@@ -72,6 +72,7 @@ class LoginScreenState extends State<LoginScreen>  {
                 alignment: Alignment.center,
                 child: Padding(
                   padding: const EdgeInsets.fromLTRB(20.0,80.0,20.0,0),
+
                   child: Text('Test Demo',style: TextStyle(fontSize: 30,color: Colors.blue, fontWeight: FontWeight.bold, fontFamily: FontConstant.boldFont)),
                 ),
               ),
